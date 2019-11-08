@@ -1,0 +1,21 @@
+{
+	"ko-KR": {
+	"alert_about": "바로 가기에 대한 체크섬을 계산하고 비교합니다. 웹에서 다운로드한 바로 가기의 유효성을 확인하는 데 유용합니다.",
+	"language_key": "ko-KR",
+	"language_name": "한국어",
+	"menu_about": "대 한...",
+	"menu_checksum_calculate": "체크섬을 계산하세요...",
+	"menu_checksum_compare": "두 가지 바로 가기 비교...",
+	"menu_checksum_verify": "체크섬 확인...",
+	"menu_clipboard": "클립보드에 복사",
+	"menu_help": "도움말...",
+	"menu_quit": "종료",
+	"prompt_checksum": "바로 가기와 비교하려면 SHA-256 체크섬을 입력합니다.",
+	"prompt_shortcut": "바로 가기 선택:",
+	"prompt_shortcut_one": "첫 번째 바로 가기를 선택합니다.",
+	"prompt_shortcut_two": "두 번째 바로 가기를 선택합니다.",
+	"title_checksum_fail": "실패: 체크섬이 다릅니다.",
+	"title_checksum_pass": "패스: 체크섬이 동일합니다."
+}
+
+}

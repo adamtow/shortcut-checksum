@@ -1,0 +1,21 @@
+{
+	"nl-NL": {
+	"alert_about": "Berekent en vergelijkt controlesommen voor snelkoppelingen. Handig bij het controleren van de geldigheid van snelkoppelingen die zijn gedownload van het web.",
+	"language_key": "nl-NL",
+	"language_name": "Dutch",
+	"menu_about": "Over...",
+	"menu_checksum_calculate": "Controlesom berekenen...",
+	"menu_checksum_compare": "Twee snelkoppelingen vergelijken...",
+	"menu_checksum_verify": "Controlesom controleren...",
+	"menu_clipboard": "Naar klembord kopiëren",
+	"menu_help": "Help...",
+	"menu_quit": "Sluit",
+	"prompt_checksum": "Voer een SHA-256 controlesom in om te vergelijken met een snelkoppeling:",
+	"prompt_shortcut": "Selecteer een snelkoppeling:",
+	"prompt_shortcut_one": "Selecteer de eerste snelkoppeling:",
+	"prompt_shortcut_two": "Selecteer de tweede snelkoppeling:",
+	"title_checksum_fail": "Mislukken: checksums zijn verschillend",
+	"title_checksum_pass": "Pass: checksums zijn identiek"
+}
+
+}

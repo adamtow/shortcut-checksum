@@ -1,0 +1,21 @@
+{
+	"tr-TR": {
+	"alert_about": "Kısayollar için checksums hesaplar ve karşılaştırır. Web'den indirilen kısayolların geçerliliğini doğrulamada yararlıdır.",
+	"language_key": "tr-TR",
+	"language_name": "Turkish",
+	"menu_about": "Hakkı -nda...",
+	"menu_checksum_calculate": "Checksum hesaplayın...",
+	"menu_checksum_compare": "İki Kısayolları Karşılaştır...",
+	"menu_checksum_verify": "Checksum'u doğrulayın...",
+	"menu_clipboard": "Panoya kopyala",
+	"menu_help": "Yardım...",
+	"menu_quit": "Bırak",
+	"prompt_checksum": "Bir kısayol ile karşılaştırmak için sha-256 checksum girin:",
+	"prompt_shortcut": "Bir kısayol seçin:",
+	"prompt_shortcut_one": "İlk kısayolu seçin:",
+	"prompt_shortcut_two": "İkinci kısayolu seçin:",
+	"title_checksum_fail": "Fail: Checksums Farklı mı",
+	"title_checksum_pass": "Geçiş: Checksums Özdeş"
+}
+
+}

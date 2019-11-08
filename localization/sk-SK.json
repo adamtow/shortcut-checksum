@@ -1,0 +1,21 @@
+{
+	"sk-SK": {
+	"alert_about": "Vypočíta a porovnáva kontrolné súčty skratiek. Užitočné pri overovaní platnosti skratiek stiahnutých z webu.",
+	"language_key": "sk-SK",
+	"language_name": "Slovak",
+	"menu_about": "O...",
+	"menu_checksum_calculate": "Vypočítať kontrolný súčet...",
+	"menu_checksum_compare": "Porovnať dve skratky...",
+	"menu_checksum_verify": "Overiť kontrolný súčet...",
+	"menu_clipboard": "Kopírovať do schránky",
+	"menu_help": "pomoc...",
+	"menu_quit": "Ukončite",
+	"prompt_checksum": "Zadajte SHA-256 kontrolný súčet porovnať proti odkazu:",
+	"prompt_shortcut": "Vyberte skratku:",
+	"prompt_shortcut_one": "Vyberte prvý odkaz:",
+	"prompt_shortcut_two": "Vyberte druhý odkaz:",
+	"title_checksum_fail": "Zlyhať: kontrolné súčty sú rôzne",
+	"title_checksum_pass": "Pass: kontrolné súčty sú identické"
+}
+
+}

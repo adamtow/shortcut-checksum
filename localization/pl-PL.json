@@ -1,0 +1,21 @@
+{
+	"pl-PL": {
+	"alert_about": "Oblicza i porównuje sumy kontrolne dla skrótów. Przydatne w weryfikowaniu ważności skrótów pobranych z Internetu.",
+	"language_key": "pl-PL",
+	"language_name": "Polish",
+	"menu_about": "O...",
+	"menu_checksum_calculate": "Oblicz sumę kontrolną...",
+	"menu_checksum_compare": "Porównaj dwa skróty...",
+	"menu_checksum_verify": "Zweryfikuj sumę kontrolną...",
+	"menu_clipboard": "Kopiuj do schowka",
+	"menu_help": "Pomoc...",
+	"menu_quit": "Zamknij",
+	"prompt_checksum": "Wprowadź sumę kontrolną SHA-256 do porównania ze skrótem:",
+	"prompt_shortcut": "Wybierz skrót:",
+	"prompt_shortcut_one": "Wybierz pierwszy skrót:",
+	"prompt_shortcut_two": "Wybierz drugi skrót:",
+	"title_checksum_fail": "Niepowodzenie: sumy kontrolne są różne",
+	"title_checksum_pass": "Pass: sumy kontrolne są identyczne"
+}
+
+}

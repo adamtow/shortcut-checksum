@@ -1,0 +1,21 @@
+{
+	"pt-BR": {
+	"alert_about": "Calcula e compara verificações para atalhos. Útil para verificar a validade dos atalhos baixados da web.",
+	"language_key": "pt-BR",
+	"language_name": "Portuguese",
+	"menu_about": "Sobre...",
+	"menu_checksum_calculate": "Calcule o Checkum...",
+	"menu_checksum_compare": "Compare dois atalhos...",
+	"menu_checksum_verify": "Verifique checkum...",
+	"menu_clipboard": "Copiar para área de transferência",
+	"menu_help": "Ajuda...",
+	"menu_quit": "Desistir",
+	"prompt_checksum": "Digite um checkum SHA-256 para comparar contra um atalho:",
+	"prompt_shortcut": "Selecione um atalho:",
+	"prompt_shortcut_one": "Selecione o primeiro atalho:",
+	"prompt_shortcut_two": "Selecione o segundo atalho:",
+	"title_checksum_fail": "Falha: Cheques são diferentes",
+	"title_checksum_pass": "Passe: Cheques são idênticos"
+}
+
+}

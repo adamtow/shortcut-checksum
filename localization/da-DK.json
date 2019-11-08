@@ -1,0 +1,21 @@
+{
+	"da-DK": {
+	"alert_about": "Beregner og sammenligner kontrolsummer for genveje. Nyttigt til at kontrollere gyldigheden af genveje hentet fra internettet.",
+	"language_key": "da-DK",
+	"language_name": "Danish",
+	"menu_about": "Om...",
+	"menu_checksum_calculate": "Beregn checksum...",
+	"menu_checksum_compare": "Sammenlign to genveje...",
+	"menu_checksum_verify": "Bekræft checksum...",
+	"menu_clipboard": "Kopiér til Udklipsholder",
+	"menu_help": "Hjælp...",
+	"menu_quit": "Afslutte",
+	"prompt_checksum": "Indtast en Sha-256 kontrolsum for at sammenligne med en genvej:",
+	"prompt_shortcut": "Vælg en genvej:",
+	"prompt_shortcut_one": "Vælg den første genvej:",
+	"prompt_shortcut_two": "Vælg den anden genvej:",
+	"title_checksum_fail": "Fail: kontrolsummer er forskellige",
+	"title_checksum_pass": "Pass: kontrolsummer er identiske"
+}
+
+}

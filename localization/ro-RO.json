@@ -1,0 +1,21 @@
+{
+	"ro-RO": {
+	"alert_about": "Calculează și compară sumele de control pentru comenzi rapide. Util în verificarea validității comenzilor rapide descărcate de pe web.",
+	"language_key": "ro-RO",
+	"language_name": "Romanian",
+	"menu_about": "Despre...",
+	"menu_checksum_calculate": "Calculare sumă de verificare...",
+	"menu_checksum_compare": "Compara două comenzi rapide...",
+	"menu_checksum_verify": "Verificare sumă de verificare...",
+	"menu_clipboard": "Copiere în Clipboard",
+	"menu_help": "ajutor...",
+	"menu_quit": "Renunţe",
+	"prompt_checksum": "Introduceți o SHA-256 checksum pentru a compara cu o comandă rapidă:",
+	"prompt_shortcut": "Selectați o comandă rapidă:",
+	"prompt_shortcut_one": "Selectați prima comandă rapidă:",
+	"prompt_shortcut_two": "Selectați a doua comandă rapidă:",
+	"title_checksum_fail": "Fail: sumele de control sunt diferite",
+	"title_checksum_pass": "Pass: sumele de control sunt identice"
+}
+
+}

@@ -1,0 +1,21 @@
+{
+	"fr-FR": {
+	"alert_about": "Calcule et compare les checksums pour les raccourcis. Utile pour vérifier la validité des raccourcis téléchargés sur le web.",
+	"language_key": "fr-FR",
+	"language_name": "Français",
+	"menu_about": "Sur...",
+	"menu_checksum_calculate": "Calculer Checksum...",
+	"menu_checksum_compare": "Comparez deux raccourcis...",
+	"menu_checksum_verify": "Vérifier Checksum...",
+	"menu_clipboard": "Copier dans le Presse-papiers",
+	"menu_help": "Aide...",
+	"menu_quit": "Quitter",
+	"prompt_checksum": "Entrez un checksum SHA-256 pour comparer avec un raccourci :",
+	"prompt_shortcut": "Sélectionnez un raccourci :",
+	"prompt_shortcut_one": "Sélectionnez le premier raccourci :",
+	"prompt_shortcut_two": "Sélectionnez le deuxième raccourci :",
+	"title_checksum_fail": "Échec: Checksums sont différents",
+	"title_checksum_pass": "Pass: Checksums sont identiques"
+}
+
+}

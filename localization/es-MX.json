@@ -1,0 +1,21 @@
+{
+	"es-MX": {
+	"alert_about": "Calcula y compara las sumas de comprobación de los accesos directos. Es útil para verificar la validez de los accesos directos descargados de la web.",
+	"language_key": "es-MX",
+	"language_name": "Español",
+	"menu_about": "acerca de...",
+	"menu_checksum_calculate": "Calcular suma de comprobación...",
+	"menu_checksum_compare": "Comparar dos accesos directos...",
+	"menu_checksum_verify": "Verificar suma de comprobación...",
+	"menu_clipboard": "Copiar en el portapapeles",
+	"menu_help": "Ayuda...",
+	"menu_quit": "Dejar",
+	"prompt_checksum": "Introduzca una suma de comprobación SHA-256 para compararla con un acceso directo:",
+	"prompt_shortcut": "Seleccione un acceso directo:",
+	"prompt_shortcut_one": "Seleccione el primer acceso directo:",
+	"prompt_shortcut_two": "Seleccione el segundo acceso directo:",
+	"title_checksum_fail": "Error: Las sumas de comprobación son diferentes",
+	"title_checksum_pass": "Pase: Las sumas de comprobación son idénticas"
+}
+
+}

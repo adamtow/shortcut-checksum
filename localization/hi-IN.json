@@ -1,0 +1,21 @@
+{
+	"hi-IN": {
+	"alert_about": "शॉर्टकट के लिए चेकसम की गणना और तुलना करता है। वेब से डाउनलोड किए गए शॉर्टकट की वैधता को सत्यापित करने में उपयोगी।",
+	"language_key": "hi-IN",
+	"language_name": "Hindi",
+	"menu_about": "करीबन...",
+	"menu_checksum_calculate": "चेकसम की गणना करें...",
+	"menu_checksum_compare": "दो शॉर्टकट की तुलना करें...",
+	"menu_checksum_verify": "चेकसम का सत्यापन करें...",
+	"menu_clipboard": "क्लिपबोर्ड को कॉपी करें",
+	"menu_help": "मदद...",
+	"menu_quit": "छोड़ना",
+	"prompt_checksum": "शॉर्टकट के खिलाफ तुलना करने के लिए एक SHA-256 चेकसम दर्ज करें:",
+	"prompt_shortcut": "शॉर्टकट चुनें:",
+	"prompt_shortcut_one": "पहला शॉर्टकट चुनें:",
+	"prompt_shortcut_two": "दूसरा शॉर्टकट चुनें:",
+	"title_checksum_fail": "असफल: चेकसम अलग हैं",
+	"title_checksum_pass": "पास: चेकसम समान हैं"
+}
+
+}

@@ -1,0 +1,21 @@
+{
+	"hu-HU": {
+	"alert_about": "A parancsikonokhoz tartozó ellenőrzőösszegek kiszámítása és összevetása. Hasznos a webrről letöltött parancsikonok érvényességének ellenőrzésében.",
+	"language_key": "hu-HU",
+	"language_name": "Hungarian",
+	"menu_about": "Körülbelül...",
+	"menu_checksum_calculate": "Ellenőrzőösszeg számítása...",
+	"menu_checksum_compare": "Két parancsikon összehasonlítása...",
+	"menu_checksum_verify": "Ellenőrzőösszeg ellenőrzése...",
+	"menu_clipboard": "Másolás a vágólapra",
+	"menu_help": "segítség...",
+	"menu_quit": "Kilép",
+	"prompt_checksum": "Adjon meg egy SHA-256 ellenőrzőösszeget, hogy egy parancsikonnal hasonlítson össze:",
+	"prompt_shortcut": "Jelöljön ki egy parancsikont:",
+	"prompt_shortcut_one": "Jelölje ki az első parancsikont:",
+	"prompt_shortcut_two": "Jelölje ki a második parancsikont:",
+	"title_checksum_fail": "Fail: az ellenőrző összeg különbözik",
+	"title_checksum_pass": "Hágó: számlaösszeg van megegyező"
+}
+
+}

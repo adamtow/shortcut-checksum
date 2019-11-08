@@ -1,0 +1,21 @@
+{
+	"de-DE": {
+	"alert_about": "Berechnet und vergleicht Prüfsummen für Verknüpfungen. Nützlich bei der Überprüfung der Gültigkeit von Verknüpfungen, die aus dem Web heruntergeladen wurden.",
+	"language_key": "de-DE",
+	"language_name": "Deutsch",
+	"menu_about": "Über...",
+	"menu_checksum_calculate": "Prüfsumme berechnen...",
+	"menu_checksum_compare": "Zwei Verknüpfungen vergleichen...",
+	"menu_checksum_verify": "Prüfsumme überprüfen...",
+	"menu_clipboard": "In Zwischenablage kopieren",
+	"menu_help": "Hilfe...",
+	"menu_quit": "Beenden",
+	"prompt_checksum": "Geben Sie eine SHA-256-Prüfsumme ein, um sie mit einer Verknüpfung zu vergleichen:",
+	"prompt_shortcut": "Wählen Sie eine Verknüpfung aus:",
+	"prompt_shortcut_one": "Wählen Sie die erste Verknüpfung aus:",
+	"prompt_shortcut_two": "Wählen Sie die zweite Verknüpfung aus:",
+	"title_checksum_fail": "Fehler: Prüfsummen sind unterschiedlich",
+	"title_checksum_pass": "Bestanden: Prüfsummen sind identisch"
+}
+
+}

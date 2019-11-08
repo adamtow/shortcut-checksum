@@ -1,0 +1,21 @@
+{
+	"zn-HK": {
+	"alert_about": "計算同比較快捷方式嘅校验同。 可用於驗證係 web 下載的快捷方式的有效性。",
+	"language_key": "zn-HK",
+	"language_name": "Chinese Traditional",
+	"menu_about": "關於...",
+	"menu_checksum_calculate": "計算校验和...",
+	"menu_checksum_compare": "比較兩個快捷方式...",
+	"menu_checksum_verify": "驗證校验和...",
+	"menu_clipboard": "複製到剪貼板",
+	"menu_help": "幫手...",
+	"menu_quit": "退出",
+	"prompt_checksum": "輸入要與快捷方式進行比較的 sha-256 校验同:",
+	"prompt_shortcut": "揀快捷方式:",
+	"prompt_shortcut_one": "選擇第一個快捷方式:",
+	"prompt_shortcut_two": "揀第二个快捷方式:",
+	"title_checksum_fail": "肥佬: 校验同唔同",
+	"title_checksum_pass": "通過: 校验同相同"
+}
+
+}

@@ -1,0 +1,21 @@
+{
+	"th-TH": {
+	"alert_about": "คำนวณและเปรียบเทียบการรุกฆาตสำหรับทางลัด มีประโยชน์ในการตรวจสอบความถูกต้องของทางลัดที่ดาวน์โหลดจากเว็บ",
+	"language_key": "th-TH",
+	"language_name": "Thai",
+	"menu_about": "เกี่ยวกับ",
+	"menu_checksum_calculate": "คำนวณ Checksum ...",
+	"menu_checksum_compare": "เปรียบเทียบสองทางลัด ...",
+	"menu_checksum_verify": "ตรวจสอบ Checksum ...",
+	"menu_clipboard": "คัดลอกลงคลิปบอร์ด",
+	"menu_help": "วิธีใช้",
+	"menu_quit": "ปิด",
+	"prompt_checksum": "ใส่ checksum ๒๕๖เพื่อเปรียบเทียบกับทางลัด:",
+	"prompt_shortcut": "เลือกทางลัด:",
+	"prompt_shortcut_one": "เลือกทางลัดแรก:",
+	"prompt_shortcut_two": "เลือกทางลัดที่สอง:",
+	"title_checksum_fail": "ล้มเหลว: การรุกฆาตจะแตกต่างกัน",
+	"title_checksum_pass": "ผ่าน: เช็คผลเหมือนกัน"
+}
+
+}

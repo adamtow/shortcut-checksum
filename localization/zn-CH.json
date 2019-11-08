@@ -1,0 +1,21 @@
+{
+	"zn-CH": {
+	"alert_about": "计算和比较快捷方式的校验和。可用于验证从 Web 下载的快捷方式的有效性。",
+	"language_key": "zn-CH",
+	"language_name": "简体中文",
+	"menu_about": "关于...",
+	"menu_checksum_calculate": "计算校验和...",
+	"menu_checksum_compare": "比较两个快捷方式...",
+	"menu_checksum_verify": "验证校验和...",
+	"menu_clipboard": "复制到剪贴板",
+	"menu_help": "帮助。。。",
+	"menu_quit": "退出",
+	"prompt_checksum": "输入要与快捷方式进行比较的 SHA-256 校验和：",
+	"prompt_shortcut": "选择快捷方式：",
+	"prompt_shortcut_one": "选择第一个快捷方式：",
+	"prompt_shortcut_two": "选择第二个快捷方式：",
+	"title_checksum_fail": "失败：校验和不同",
+	"title_checksum_pass": "通过：校验和相同"
+}
+
+}

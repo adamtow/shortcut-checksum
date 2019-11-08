@@ -1,0 +1,21 @@
+{
+	"cs-CZ": {
+	"alert_about": "Vypočítá a porovná kontrolní součty pro zástupce. Užitečné pro ověření platnosti klávesových zkratek stažených z webu.",
+	"language_key": "cs-CZ",
+	"language_name": "Czech",
+	"menu_about": "O...",
+	"menu_checksum_calculate": "Spočítat kontrolní součet...",
+	"menu_checksum_compare": "Porovnat dvě zkratky...",
+	"menu_checksum_verify": "Ověřit kontrolní součet...",
+	"menu_clipboard": "Kopírovat do schránky",
+	"menu_help": "Pomoc...",
+	"menu_quit": "Ukončete",
+	"prompt_checksum": "Zadejte kontrolní součet SHA-256 pro porovnání s zástupcem:",
+	"prompt_shortcut": "Vyberte zástupce:",
+	"prompt_shortcut_one": "Vyberte prvního zástupce:",
+	"prompt_shortcut_two": "Vyberte druhého zástupce:",
+	"title_checksum_fail": "Neúspěšné: kontrolní součty jsou jiné",
+	"title_checksum_pass": "Průchod: kontrolní součty jsou identické"
+}
+
+}

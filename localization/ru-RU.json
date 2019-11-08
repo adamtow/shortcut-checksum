@@ -1,0 +1,21 @@
+{
+	"ru-RU": {
+	"alert_about": "Вычисляет и сравнивает чеки для ярлыков. Полезно для проверки достоверности ярлыков, загруженных из Интернета.",
+	"language_key": "ru-RU",
+	"language_name": "Русский",
+	"menu_about": "О...",
+	"menu_checksum_calculate": "Рассчитайте Чексум...",
+	"menu_checksum_compare": "Сравните два ярлыка...",
+	"menu_checksum_verify": "Проверить Checksum...",
+	"menu_clipboard": "Копировать в буфер",
+	"menu_help": "Справка...",
+	"menu_quit": "Бросить",
+	"prompt_checksum": "Введите чековую проверку SHA-256 для сравнения с ярлыком:",
+	"prompt_shortcut": "Выберите ярлык:",
+	"prompt_shortcut_one": "Выберите первый ярлык:",
+	"prompt_shortcut_two": "Выберите второй ярлык:",
+	"title_checksum_fail": "Fail: Checksums различны",
+	"title_checksum_pass": "Pass: Чексумы идентичны"
+}
+
+}

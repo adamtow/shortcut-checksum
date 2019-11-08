@@ -1,0 +1,21 @@
+{
+	"he-IL": {
+	"alert_about": "חישוב והשוואה של סכומי בדיקות עבור קיצורי דרך. שימושי באימות חוקיות הקיצורים שהורדו מהאינטרנט.",
+	"language_key": "he-IL",
+	"language_name": "Hebrew",
+	"menu_about": ". על...",
+	"menu_checksum_calculate": "חישוב בדיקת סיכום...",
+	"menu_checksum_compare": "השוואת שני קיצורי דרך...",
+	"menu_checksum_verify": "בדיקת סיכום ביקורת...",
+	"menu_clipboard": "העתק ללוח",
+	"menu_help": ". עזור לי",
+	"menu_quit": "פרוש",
+	"prompt_checksum": "הזן בדיקת סיכום SHA-256 כדי להשוות מול קיצור דרך:",
+	"prompt_shortcut": "בחר קיצור דרך:",
+	"prompt_shortcut_one": "בחר בקיצור הדרך הראשון:",
+	"prompt_shortcut_two": "בחר בקיצור הדרך השני:",
+	"title_checksum_fail": "כשל: סיכומי הביקורת שונים",
+	"title_checksum_pass": "מעבר: סיכומי הביקורת זהים"
+}
+
+}

@@ -1,0 +1,21 @@
+{
+	"sv-SE": {
+	"alert_about": "Beräknar och jämför kontrollsummor för genvägar. Användbart för att verifiera giltigheten av genvägar som hämtats från webben.",
+	"language_key": "sv-SE",
+	"language_name": "Svensk",
+	"menu_about": "Om...",
+	"menu_checksum_calculate": "Beräkna kontrollsumma...",
+	"menu_checksum_compare": "Jämför två genvägar...",
+	"menu_checksum_verify": "Kontrollera kontrollsumma...",
+	"menu_clipboard": "Kopiera till Urklipp",
+	"menu_help": "Hjälp...",
+	"menu_quit": "Avsluta",
+	"prompt_checksum": "Ange en SHA-256-kontrollsumma som ska jämföras mot en genväg:",
+	"prompt_shortcut": "Välj en genväg:",
+	"prompt_shortcut_one": "Välj den första genvägen:",
+	"prompt_shortcut_two": "Välj den andra genvägen:",
+	"title_checksum_fail": "Fail: kontrollsummor är olika",
+	"title_checksum_pass": "Pass: kontrollsummor är identiska"
+}
+
+}

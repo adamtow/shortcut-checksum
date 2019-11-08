@@ -1,0 +1,21 @@
+{
+	"ar-SA": {
+	"alert_about": "يحسب ويقارن المجاميع الاختبارية للاختصارات. مفيده في التحقق من صحة الاختصارات التي تم تنزيلها من الويب.",
+	"language_key": "ar-SA",
+	"language_name": "Arabic",
+	"menu_about": "عن...",
+	"menu_checksum_calculate": "حساب المجموع الاختباري...",
+	"menu_checksum_compare": "قارن بين اختصارين...",
+	"menu_checksum_verify": "تحقق من المجموع الاختباري...",
+	"menu_clipboard": "نسخ إلى الحافظة",
+	"menu_help": "تعليمات...",
+	"menu_quit": "انهاء",
+	"prompt_checksum": "ادخل المجموع الاختباري SHA-256 للمقارنة مقابل اختصار:",
+	"prompt_shortcut": "حدد اختصارا:",
+	"prompt_shortcut_one": "حدد الاختصار الأول:",
+	"prompt_shortcut_two": "حدد الاختصار الثاني:",
+	"title_checksum_fail": "فشل: المجاميع الاختبارية مختلفه",
+	"title_checksum_pass": "تمرير: المجاميع الاختبارية متطابقة"
+}
+
+}

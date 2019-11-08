@@ -1,0 +1,21 @@
+{
+	"it-IT": {
+	"alert_about": "Calcola e confronta i checksum per le scelte rapide. Utile per verificare la validità dei collegamenti scaricati dal Web.",
+	"language_key": "it-IT",
+	"language_name": "Italiano",
+	"menu_about": "Circa...",
+	"menu_checksum_calculate": "Calcola Checksum...",
+	"menu_checksum_compare": "Confronta due scorciatoie...",
+	"menu_checksum_verify": "Verifica checksum...",
+	"menu_clipboard": "Copia negli Appunti",
+	"menu_help": "Guida...",
+	"menu_quit": "Smettere",
+	"prompt_checksum": "Immettere un checksum SHA-256 da confrontare con un collegamento:",
+	"prompt_shortcut": "Selezionare una scelta rapida:",
+	"prompt_shortcut_one": "Selezionare la prima scorciatoia:",
+	"prompt_shortcut_two": "Selezionare la seconda scorciatoia:",
+	"title_checksum_fail": "Fail: i checksum sono diversi",
+	"title_checksum_pass": "Pass: I checksum sono identici"
+}
+
+}

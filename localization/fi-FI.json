@@ -1,0 +1,21 @@
+{
+	"fi-FI": {
+	"alert_about": "Laskee ja vertaa pikakuvakkeiden tarkistus summia. Hyödyllinen, kun tarkistetaan verkosta ladattujen pikakuvakkeiden pätevyyttä.",
+	"language_key": "fi-FI",
+	"language_name": "Finnish",
+	"menu_about": "Noin...",
+	"menu_checksum_calculate": "Laske tarkistus summa...",
+	"menu_checksum_compare": "Vertaa kahta pikakuvakkeita...",
+	"menu_checksum_verify": "Tarkista tarkistus summa...",
+	"menu_clipboard": "Kopioi leike pöydälle",
+	"menu_help": "Apua...",
+	"menu_quit": "Lopettaa",
+	"prompt_checksum": "Kirjoita SHA-256-tarkistus summa, jota verrataan pikakuvakkeeseen:",
+	"prompt_shortcut": "Valitse pikakuvake:",
+	"prompt_shortcut_one": "Valitse ensimmäinen pikakuvake:",
+	"prompt_shortcut_two": "Valitse toinen pikakuvake:",
+	"title_checksum_fail": "Fail: tarkistus summat ovat erilaisia",
+	"title_checksum_pass": "Pass: tarkistus summat ovat identtiset"
+}
+
+}

@@ -1,0 +1,21 @@
+{
+	"id-ID": {
+	"alert_about": "Menghitung dan membandingkan checksum untuk pintasan. Berguna dalam memverifikasi validitas shortcut yang didownload dari web.",
+	"language_key": "id-ID",
+	"language_name": "Indonesian",
+	"menu_about": "Tentang...",
+	"menu_checksum_calculate": "Hitung checksum...",
+	"menu_checksum_compare": "Bandingkan dua Shortcuts...",
+	"menu_checksum_verify": "Verifikasi checksum...",
+	"menu_clipboard": "Salin ke clipboard",
+	"menu_help": "Tolong...",
+	"menu_quit": "Berhenti",
+	"prompt_checksum": "Masukkan checksum SHA-256 untuk membandingkan dengan pintasan:",
+	"prompt_shortcut": "Pilih pintasan:",
+	"prompt_shortcut_one": "Pilih pintasan pertama:",
+	"prompt_shortcut_two": "Pilih pintasan kedua:",
+	"title_checksum_fail": "Gagal: checksum berbeda",
+	"title_checksum_pass": "Pass: jumlah checksum identik"
+}
+
+}

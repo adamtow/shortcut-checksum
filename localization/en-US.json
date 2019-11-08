@@ -1,0 +1,20 @@
+{
+	"en-US": {
+		"alert_about": "Calculates and compares checksums for shortcuts. Useful in verifying the validity of shortcuts downloaded from the web.",
+		"language_key": "en-US",
+		"language_name": "English",
+		"menu_about": "About…",
+		"menu_checksum_calculate": "Calculate Checksum…",
+		"menu_checksum_compare": "Compare Two Shortcuts…",
+		"menu_checksum_verify": "Verify Checksum…",
+		"menu_clipboard": "Copy to Clipboard",
+		"menu_help": "Help…",
+		"menu_quit": "Quit",
+		"prompt_checksum": "Enter a SHA-256 checksum to compare against a shortcut:",
+		"prompt_shortcut": "Select a shortcut:",
+		"prompt_shortcut_one": "Select the first shortcut:",
+		"prompt_shortcut_two": "Select the second shortcut:",
+		"title_checksum_fail": "Fail: Checksums Are Different",
+		"title_checksum_pass": "Pass: Checksums Are Identical"
+	}
+}

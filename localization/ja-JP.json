@@ -1,0 +1,21 @@
+{
+	"ja-JP": {
+	"alert_about": "ショートカットのチェックサムを計算および比較します。Web からダウンロードしたショートカットの有効性を確認する場合に役立ちます。",
+	"language_key": "ja-JP",
+	"language_name": "日本語",
+	"menu_about": "に関しては。。。",
+	"menu_checksum_calculate": "チェックサムの計算...",
+	"menu_checksum_compare": "2 つのショートカットを比較...",
+	"menu_checksum_verify": "チェックサムの確認...",
+	"menu_clipboard": "クリップボードにコピー",
+	"menu_help": "ヘルプ。。。",
+	"menu_quit": "終了",
+	"prompt_checksum": "ショートカットと比較する SHA-256 チェックサムを入力します。",
+	"prompt_shortcut": "ショートカットを選択してください:",
+	"prompt_shortcut_one": "最初のショートカットを選択します。",
+	"prompt_shortcut_two": "2 番目のショートカットを選択します。",
+	"title_checksum_fail": "失敗: チェックサムが異なる",
+	"title_checksum_pass": "パス: チェックサムは同一です"
+}
+
+}

@@ -1,0 +1,21 @@
+{
+	"nb-NO": {
+	"alert_about": "Beregner og sammenligner kontrollsummer for snarveier. Nyttig for å verifisere gyldigheten av snarveier lastet ned fra nettet.",
+	"language_key": "nb-NO",
+	"language_name": "Norwegian",
+	"menu_about": "Om...",
+	"menu_checksum_calculate": "Beregn kontrollsum...",
+	"menu_checksum_compare": "Sammenlign to snarveier...",
+	"menu_checksum_verify": "Kontroller kontrollsum...",
+	"menu_clipboard": "Kopier til utklippstavle",
+	"menu_help": "hjelp...",
+	"menu_quit": "Avslutte",
+	"prompt_checksum": "Angi en SHA-256-kontrollsum som skal sammenlignes med en snarvei:",
+	"prompt_shortcut": "Velg en snarvei:",
+	"prompt_shortcut_one": "Velg den første snarveien:",
+	"prompt_shortcut_two": "Velg den andre snarveien:",
+	"title_checksum_fail": "Fail: sjekksummer er forskjellige",
+	"title_checksum_pass": "Pass: kontrollsummer er identiske"
+}
+
+}
