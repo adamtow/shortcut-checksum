@@ -27,12 +27,16 @@ You will be alerted if the checksums match or are different.
 
 The checksums for both shortcuts will be calculated, and you will be alerted if the checksums match or are different.
 
+![Comapare Checksums of Two Shortcuts](https://adamtow.github.io/shortcut-checksum/images/shortcut-checksum-compare.png)
+
 ## Calculate Checksum
 
 1. Tap Caculate Checksum.
 2. Select a shortcut.
 
-The checksums for the shortcut will be calculated.
+The checksum for the shortcut will be calculated.
+
+![Calculate Checksum](https://adamtow.github.io/shortcut-checksum/images/shortcut-checksum-calculate.png)
 
 ## Copy to Clipboard
 
@@ -41,3 +45,5 @@ If enabled, the checksum hashes and results will be copied to the clipboard.
 ## Localization
 
 Shortcut Checksum has been fully localized in English and machine translated in over 26 other languages. If you want to help with providing a better translation, please visit the [Shortcut Checksum localization page here](https://github.com/adamtow/shortcut-checksum/tree/master/localization) and submit a pull request.
+
+
